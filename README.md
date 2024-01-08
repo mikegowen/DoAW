@@ -1,5 +1,5 @@
 ShaDoAW Rescue Bot
-===================
+by @mikegee
 
 Flashbots-based bot to safely rescue a shaDoAW from a DoAW wallet.
 
